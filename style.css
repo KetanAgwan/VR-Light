@@ -897,6 +897,7 @@ nav>.nav-options {
 .footer-box-text > h3{
     font-size: var(--commonFontSize);
     font-weight: var(--commonFontWeight);
+    width: 90%;
 }
 .footer-box-text > .input-box{
     height: 20%;
