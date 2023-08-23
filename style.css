@@ -118,6 +118,7 @@ nav>.nav-options {
     align-items: center;
     justify-content: center;
     position: relative;
+    flex-wrap: wrap-reverse;
 }
 
 .landing-text {
