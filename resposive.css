@@ -469,7 +469,7 @@
         width: 100%;
     }
     .footer-box-text > .input-box{
-        height: 30%;
+        height: 25%;
         width: 100%;
         display: flex;
         align-items: center;
@@ -477,14 +477,17 @@
         gap: 10px;
     }
     .input-box > input{
-        width: 70%;
+        width: 80%;
         font-size:18px;
         padding: 0 5px;
     }
     .input-box > button{
         width: 30%;
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 400;
+    }
+    .input-box > button > i{
+        font-size: 15px;
     }
     .footer-box > img{
         height: 40%;
